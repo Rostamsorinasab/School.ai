@@ -1,0 +1,2 @@
+# School.ai
+School.ia
