@@ -1,0 +1,5 @@
+{
+  "platform": "streamlit",
+  "app": "smart-school",
+  "port": 8501
+}
